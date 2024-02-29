@@ -7,12 +7,12 @@
  */
 const USER_CONFIG = {
 // 请将以下代码按照图示粘贴到对应位置
-USE_PASSAGE: 'push-plus',
+// USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx3e23114ed55373a0',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '27bfef0cffa00edf164320bc0ccb44a3',
 
   PROVINCE: '辽宁',
   CITY: '鞍山',
@@ -20,11 +20,11 @@ USE_PASSAGE: 'push-plus',
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '大宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'b2c0cdfe36ae4d9799fb112c4e46707b',
+      id: 'o1HZz6cIqNfRui66HvFfu67HLa6s',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001',
+      useTemplateId: 'SrXTladxLKBh1rWMuHpHnBS5pd2vS3VVp38aqW4Z8R0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-17',
       festivals: [
